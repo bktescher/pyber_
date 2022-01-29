@@ -8,6 +8,7 @@ The PyBer ride sharing company has tasked us with compiling data for three city 
 ##### Rides, Drivers and Average Fares
 The Urban city type contains the most rides, drivers and total fares.  Suburban has less of the three indicators and Rural has even less.  However, a reciprocal effect was noted in Average fares/per driver.  Urban had lower average fares/per driver, Suburban had slightly more and Rural had even more.  
 
+
 ## Weekly Pivot: Fares by City
 ![](https://github.com/bktescher/pyber_/blob/main/Analysis/Challenge_image.png)
 ##### Weekly Insights = Inconclusive
